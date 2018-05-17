@@ -15,9 +15,9 @@ if (katzDeli.length === 0){
  	}
   function currentLine(line){
     let i = 0;
-    while (i<currentLine.length){
+    while (i<line.length){
       i++;
     }
-if (katzDeli.length ===0){
+if (line.length ===0){
   return "The line is currently empty."
 }  }
