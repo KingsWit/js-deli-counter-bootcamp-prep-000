@@ -7,5 +7,7 @@ function takeANumber(katzDeli, newCustomer){
     while (i<katzDeli.length){
       i++;
     }
-if (katzDeli.length === 0)
+if (katzDeli.length === 0){
+  return ""
+}
   }
