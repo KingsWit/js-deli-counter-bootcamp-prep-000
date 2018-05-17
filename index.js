@@ -1,1 +1,3 @@
-function takeANumber()
+function takeANumber(katzDeliLine, newCustomer){
+  
+}
