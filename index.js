@@ -8,6 +8,9 @@ function takeANumber(katzDeli, newCustomer){
       i++;
     }
 if (katzDeli.length === 0){
-  return ""
+  return "There is nobody waiting to be served!"
+}
+else {
+  
 }
   }
