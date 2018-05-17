@@ -12,6 +12,12 @@ if (katzDeli.length === 0){
 }
  else
   return (`Currently serving ${katzDeli.shift()}.`);
- 	
-  }
-  
+ 	}
+  function currentLine(line){
+    let i = 0;
+    while (i<katzDeli.length){
+      i++;
+    }
+if (katzDeli.length ===0){
+  return "The line is currently empty."
+}  }
