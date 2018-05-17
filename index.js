@@ -5,7 +5,7 @@ function takeANumber(katzDeli, newCustomer){
   function nowServing(katzDeli){
     let i = 0;
     while (i<katzDeli.length){
-      i++
+      i++;
     }
 
   }
