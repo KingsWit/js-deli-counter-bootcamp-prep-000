@@ -13,9 +13,11 @@ if (katzDeli.length === 0){
  else
   return (`Currently serving ${katzDeli.shift()}.`);
  	}
-  function currentLine(line){
+var line =[];
+
+function currentLine(katzDeli){
     let i = 0;
-    while (i<line.length){
+    while (i<katzDeli.length){
       i++;
     }
 if (line.length ===0){
