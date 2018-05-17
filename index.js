@@ -15,7 +15,7 @@ if (katzDeli.length === 0){
  	}
   function currentLine(line){
     let i = 0;
-    while (i<katzDeli.length){
+    while (i<currentLine.length){
       i++;
     }
 if (katzDeli.length ===0){
